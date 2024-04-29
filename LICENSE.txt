@@ -29,5 +29,5 @@ pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implicita de
 COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la
 Licencia Pública General GNU para más detalles.
 
-Usted debió haber recibido una copia de la Licensia Pública General GNU
+Usted debió haber recibido una copia de la Licencia Pública General GNU
 con este programa. De lo contrario, visite <http://www.gnu.org/licenses/>.
