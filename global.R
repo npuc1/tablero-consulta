@@ -1,7 +1,7 @@
 library(shiny)
 library(dplyr)
 library(plotly)
-library(xlsx)
+library(openxlsx)
 library(here)
 library(tidyverse)
 library(shinyjs)
